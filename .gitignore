@@ -25,3 +25,6 @@ spring/*.pid
 
 #ignore vim swap files
 .*.sw*
+
+# Ignore uploaded test images.
+/public/uploads
